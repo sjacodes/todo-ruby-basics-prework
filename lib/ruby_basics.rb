@@ -2,7 +2,7 @@ def division(num1, num2)
  return num1/num2
 end
 
-def assign_variable(hame)
+def assign_variable(name)
   return name
 end
 
